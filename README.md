@@ -6,7 +6,7 @@ It integrates **vertical feature partitioning**, **graph-attention spatial model
 
 The implementation builds on and improves limitations found in the base research:
 
-📄 **Base Paper**: *Predicting cellular traffic using federated learning* — https://www.nature.com/articles/s41598-024-53193-y
+📄 **Base Paper**: *Core network traffic prediction based on vertical federated learning and split learning* — https://www.nature.com/articles/s41598-024-53193-y
 
 ---
 
@@ -76,4 +76,20 @@ The framework achieves an MSE of 0.02399, outperforming the LSTM baseline (0.386
 The Adaptive ST-VFL model’s forecasts closely match the ground truth across all traffic modalities:
 
 ![Actual vs Predicted](figures/stgcn_vector_plot.png)
+
+---
+
+## Authors
+
+This project was developed collaboratively by:
+
+
+- [@rameenbabar](https://github.com/rameenbabar) — National University of Computer & Emerging Sciences
+- [@batoolrizvi](https://github.com/batoolrrizvi) — National University of Computer & Emerging Sciences
+- [@arishakhan](https://github.com/Arishakhan26) — National University of Computer & Emerging Sciences
+- Nabeelah Maryam(nabeelah.maryam@isb.nu.edu.pk) — National University of Computer & Emerging Sciences
+- Mohsin Khan(mohsin.khan@isb.nu.edu.pk) — National University of Computer & Emerging Sciences
+
+
+
 
