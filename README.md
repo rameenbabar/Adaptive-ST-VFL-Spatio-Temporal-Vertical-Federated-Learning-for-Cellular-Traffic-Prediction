@@ -87,8 +87,8 @@ This project was developed collaboratively by:
 - [@rameenbabar](https://github.com/rameenbabar) — National University of Computer & Emerging Sciences
 - [@batoolrizvi](https://github.com/batoolrrizvi) — National University of Computer & Emerging Sciences
 - [@arishakhan](https://github.com/Arishakhan26) — National University of Computer & Emerging Sciences
-- Nabeelah Maryam(nabeelah.maryam@isb.nu.edu.pk) — National University of Computer & Emerging Sciences
-- Mohsin Khan(mohsin.khan@isb.nu.edu.pk) — National University of Computer & Emerging Sciences
+- [@NabeelahMaryam](nabeelah.maryam@isb.nu.edu.pk) — National University of Computer & Emerging Sciences
+- [@MohsinKhan](mohsin.khan@isb.nu.edu.pk) — National University of Computer & Emerging Sciences
 
 
 
